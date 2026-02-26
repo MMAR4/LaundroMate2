@@ -1,10 +1,9 @@
 # LaundroMate: Laundry Service Booking Site
 
+This project is a single page website template designed for a professional laundry or dry cleaning service, featuring a fully functional service booking system.
+
 ## Live Demo
 https://laundromate2.netlify.app/
-
-
-This project is a single page website template designed for a professional laundry or dry cleaning service, featuring a fully functional service booking system.
 
 ## ✨ Features
 
